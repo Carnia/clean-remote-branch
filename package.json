@@ -1,0 +1,20 @@
+{
+    "name": "clean-remote-branch",
+    "version": "0.0.1",
+    "description": "clean remote branch",
+    "main": "index.js",
+    "type": "commonjs",
+    "bin": {
+      "crb": "index.js",
+      "delBranch": "delBranch.sh"
+    },
+    "keywords": [],
+    "author": "danny",
+    "license": "ISC",
+    "publishConfig": {
+      "access": "public"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    }
+  }
