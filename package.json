@@ -1,6 +1,6 @@
 {
     "name": "clean-remote-branch",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "clean remote branch",
     "main": "index.js",
     "type": "commonjs",
